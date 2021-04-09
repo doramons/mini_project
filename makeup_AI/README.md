@@ -1,3 +1,4 @@
+# 유튜브 빵형의 개발도상국 참고
 # BeautyGAN
 
 See [test.ipynb](test.ipynb), includes:
