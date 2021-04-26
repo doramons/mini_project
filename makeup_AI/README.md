@@ -47,6 +47,8 @@ If you need to put makeup on someone else's face image, pass through the image p
 ```
 python main.py --no_makeup xxx.xxx
 ```
-
-# beauty gan을 통하여 연예인 화장법을 내 민낯에 그대로 연출할 수 있다
-# 단순히 이목구비의 화장을 그대로 얹는 것이 아니라 모양에 맞게 자연스러운 화장이 연출되고 피부 톤까지 잘 맞음
+## comment
+- beauty gan을 통하여 연예인 화장법을 내 민낯에 그대로 연출할 수 있다
+- 단순히 이목구비의 화장을 그대로 얹는 것이 아니라 모양에 맞게 자연스러운 화장이 연출되고 피부 톤까지 잘 맞음
+- 이후에 스노우카메라나 필터들 처럼 연예인 화장법 따라잡기 등등의 서비스로도 만들면 좋을 것 같다
+- 메타버스의 가상 캐릭터를 만들때도 유용하지 않을까 한다
