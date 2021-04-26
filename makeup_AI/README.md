@@ -1,5 +1,6 @@
 # 유튜브 빵형의 개발도상국 참고
 # BeautyGAN
+# 연예인 메이크업 따라하는 서비스
 
 See [test.ipynb](test.ipynb), includes:
 - Face detection from random images
@@ -7,7 +8,7 @@ See [test.ipynb](test.ipynb), includes:
 - Face alignment
 - Inference
 
-![](imgs/result.png)
+![image](https://user-images.githubusercontent.com/76146752/116108552-f6ebae00-a6ee-11eb-9b65-d1fd5e7b3f8d.png)
 
 ### Introduction
 
@@ -46,3 +47,6 @@ If you need to put makeup on someone else's face image, pass through the image p
 ```
 python main.py --no_makeup xxx.xxx
 ```
+
+# beauty gan을 통하여 연예인 화장법을 내 민낯에 그대로 연출할 수 있다
+# 단순히 이목구비의 화장을 그대로 얹는 것이 아니라 모양에 맞게 자연스러운 화장이 연출되고 피부 톤까지 잘 맞음
