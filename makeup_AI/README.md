@@ -1,6 +1,7 @@
-# 유튜브 빵형의 개발도상국 참고
+
 # BeautyGAN
 # 연예인 메이크업 따라하는 서비스
+ > 유튜브 빵형의 개발도상국 참고
 
 See [test.ipynb](test.ipynb), includes:
 - Face detection from random images
