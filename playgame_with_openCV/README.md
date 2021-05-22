@@ -1,4 +1,4 @@
-### mediapipe를 이용해 손가락 움직임을 인식하여 chrome dinosaur game하는 모델
+### 손가락 움직임을 인식하여 chrome dinosaur game하는 모델🎮👾
 
 - https://levelup.gitconnected.com/playing-chromes-dinosaur-game-using-opencv-19b3cf9c3636
 - https://www.youtube.com/watch?v=CJSobYHYDo4
